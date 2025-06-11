@@ -94,10 +94,10 @@ Librarians can:
 
 ## 🖼️ GUI
 
-![Home Page](GUI_Panels\Home.png)  
-![Librarian Dashboard](GUI_Panels\librarian.png)  
-![Member Login](GUI_Panels\member_login.png)  
-![Member Dashboard](GUI_Panels\member_dashboard.png)
+![Home Page](GUI_Panels/Home.png)  
+![Librarian Dashboard](GUI_Panels/librarian.png)  
+![Member Login](GUI_Panels/member_login.png)  
+![Member Dashboard](GUI_Panels/member_dashboard.png)
 
 
 
@@ -210,14 +210,14 @@ The system comes pre-loaded with 6 animals:
 The GUI for ZooBuddies is implemented using Java Swing. Below are screenshots of the key interfaces:
 
 ### 🏠 HomeFrame
-![HomeFrame](GUI_Panels\Main.png)
+![HomeFrame](GUI_Panels/Main.png)
 
 ### 🛠️ AdminGUI
-![AdminGUI](GUI_Panels\Admin.png)
+![AdminGUI](GUI_Panels/Admin.png)
 
 ### 👤 VisitorRegister/LoginGUI
-![VisitorRegister/LoginGUI](GUI_Panels\Visitor_login_register.png)
+![VisitorRegister/LoginGUI](GUI_Panels/Visitor_login_register.png)
 
 ### 🎟️ VisitorGUI
-![VisitorGUI](GUI_Panels\Visitor.png)
+![VisitorGUI](GUI_Panels/Visitor.png)
 
